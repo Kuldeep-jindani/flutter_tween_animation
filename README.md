@@ -1,16 +1,24 @@
-# flutter_tween_anim
 
-A Tween Animation in Flutter project.
+## Authors
 
-## Getting Started
+- [@kuldeepjindani](https://www.github.com/Kuldeep-jindani)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Insert gif or link to demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Kuldeep-jindani/flutter_tween_animation/blob/master/lib/Video/FlutterTweenAnimation.gif
+## Features
+
+- dark mode
+- Simple implementation
+- Tween animation
+- Cross platform
+
+
+## 🔗 Links
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/:@MobileDevExpert)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-jindani-024439a2/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kuldeepjindani)
+
