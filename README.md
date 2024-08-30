@@ -5,10 +5,9 @@
 
 
 ## Demo
+![FlutterTweenAnimation.gif](lib%2FVideo%2FFlutterTweenAnimation.gif)
 
-Insert gif or link to demo
 
-https://github.com/Kuldeep-jindani/flutter_tween_animation/blob/master/lib/Video/FlutterTweenAnimation.gif
 ## Features
 
 - dark mode
